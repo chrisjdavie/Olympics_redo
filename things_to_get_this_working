@@ -1,0 +1,6 @@
+cd ~
+gedit .gitignore_global
+# used a bunch of standard ones, included client_secrets.json
+
+git remote add origin git@github.com:chrisjdavie/Olympics_redo.git
+git pull origin master
