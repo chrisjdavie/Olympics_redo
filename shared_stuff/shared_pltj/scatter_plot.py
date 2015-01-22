@@ -1,4 +1,6 @@
 '''
+Creates a scatter plot in somthing close to my normal style.
+
 Created on 20 Nov 2014
 
 @author: chris

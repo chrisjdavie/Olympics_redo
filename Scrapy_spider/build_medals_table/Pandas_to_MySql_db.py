@@ -1,4 +1,7 @@
 '''
+
+Old code, doesn't really work anymore.
+
 Created on 24 Oct 2014
 
 @author: chris

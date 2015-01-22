@@ -1,4 +1,8 @@
 '''
+Builds the country table, inputting the country names 
+of all the countries that have ever participated in the
+Winter Olympics.
+
 Created on 18 Dec 2014
 
 @author: chris

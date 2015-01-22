@@ -1,4 +1,8 @@
 '''
+Builds the results table, linking the dates and countries
+with the golds, silvers and bronzes won by that country
+in that year.
+
 Created on 18 Dec 2014
 
 @author: chris

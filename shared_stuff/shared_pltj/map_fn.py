@@ -1,4 +1,7 @@
 '''
+Don't think this is used for the winter olympics, a copy-paste artifact.
+But it makes maps of London, which is nice
+
 I really ought to do this class-based, but I'd have to think
 quite hard and then that wouldn't be right, I just don't have
 the time right now to start the itterative process.

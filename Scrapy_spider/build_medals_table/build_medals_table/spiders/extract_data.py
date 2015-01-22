@@ -1,4 +1,15 @@
 '''
+As of Dec 2014 this sucessfully scrapes
+
+http://www.olympic.it/english/game/id_W2014
+
+for the winter olympics results for all years.
+
+The website might get changed.
+
+This can all be tested in a Scrapy shell, that's how
+I first built it.
+
 Created on 23 Oct 2014
 
 @author: chris

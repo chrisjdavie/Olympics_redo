@@ -1,4 +1,25 @@
 '''
+Compares a ranking based on number of golds for 2014 to
+a score given 3 points for a gold, 2 for a silver and 1
+for bronze.  A points based system makes some of the 
+subsequent tests more doable using commonly-understood
+techniques, but needs to be shown to be broadly comparable
+to the well-accepted 'more gold!' system.
+
+This uses the spearmanr, the Spearman's rank correlation
+coefficient, the which is a non-parametric analogue of 
+the Pearson correlation coefficient (often 'the correlation
+coefficient').  While this is probably not as good as the
+Kendall tau, it is quicker to explain.
+
+rho = 0.956, with a p = 2.75e-14
+
+It is probably significant, but the test employed here 
+assumes a student's t distribution, which might be valid
+for a test comparison if I had a few hundred points.  I 
+don't here, but if there's a more accurate way of testing 
+this with these few points I couldn't find it quickly.
+
 Created on 21 Dec 2014
 
 @author: chris
@@ -34,7 +55,7 @@ def main():
     
     rho, pval = spearmanr(ranks,scores)
     
-    print rho, pval
+    print 'Spearman', rho, pval
     
     from shared_pltj import scatter_plot
     

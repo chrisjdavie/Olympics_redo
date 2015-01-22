@@ -1,4 +1,7 @@
 '''
+Builds the dates table, inputting each year the Winter 
+Olympics have occured.
+
 Created on 18 Dec 2014
 
 @author: chris
