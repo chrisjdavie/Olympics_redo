@@ -89,7 +89,7 @@
             <div class="col-lg-7">  
                  <p>I'm comparing the historical medals from the Winter Olympics to various geodemographic features of the countries involved.</p>
 
-<p><i>Skills employed:  Statistics (non-parametric correlation coeficients, regression analysis), Python (Numpy, SciPy, Matplotlib, Scrapy), MySQL, database design, Web scraping, Linux </i></p>
+<p><i>Skills employed:  Statistics (non-parametric correlation coeficients, regression analysis), Python (Numpy, SciPy, Matplotlib, Scrapy), MySQL, Web scraping, Linux </i></p>
 
 <p><img src="images/score_vs_rank.png" alt="scorings compared to rankings"></p>
 
