@@ -50,7 +50,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">About</a>
+                        <a href="../about.html">About</a>
                     </li>
                     <!--<li>-->
                     <!--    <a href="#">Services</a>-->
@@ -89,7 +89,7 @@
             <div class="col-lg-7">  
                  <p>I'm comparing the historical medals from the Winter Olympics to various geodemographic features of the countries involved.</p>
 
-<p><i>Skills employed:  Statistics (non-parametric correlation coeficients, regression analysis), Python (Numpy, SciPy, Matplotlib, Scrapy), MySQL, Web scraping, Linux </i></p>
+<p><i>Skills employed:  Statistics (non-parametric correlation coeficients, regression analysis), Python (Numpy, SciPy, Matplotlib, Scrapy), MySQL, database design, Web scraping, Linux </i></p>
 
 <p><img src="images/score_vs_rank.png" alt="scorings compared to rankings"></p>
 
